@@ -24,7 +24,7 @@ const Wrapper = styled.div`
     width: 400px;
     border: 1px solid #696969;
     border-radius: 4px;
-    padding: 5px 15px;
+    padding: 10px 15px;
     margin-top: 5px;
   }
   .contact-form__btn {

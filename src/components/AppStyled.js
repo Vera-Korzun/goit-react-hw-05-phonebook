@@ -3,9 +3,10 @@ import styled from "styled-components";
 const Wrapper = styled.div`
   display: flex;
   flex-direction: column;
+  position: relative;
   overflow: hidden;
   padding: 50px;
-  width: 500px;
+  width: 432px;
   background-color: #fff0f5;
   border-radius: 4px;
   margin: 0 auto;
@@ -27,7 +28,6 @@ const Wrapper = styled.div`
     font-size: 25px;
     line-height: 1.63;
     color: #008080;
-    overflow: hidden;
     margin-bottom: 20px;
   }
 

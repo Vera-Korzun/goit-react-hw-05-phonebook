@@ -1,8 +1,8 @@
 import styled from "styled-components";
 const MessageStyled = styled.div`
   position: absolute;
-  top: 50px;
-  right: 300px;
+  top: 45px;
+  right: 45px;
   max-width: 300px;
   background-color: #fa8072;
   border-radius: 4px;

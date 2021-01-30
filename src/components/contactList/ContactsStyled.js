@@ -12,7 +12,7 @@ const Wrapper = styled.div`
     border: 1px solid #696969;
     border-radius: 4px;
     margin-bottom: 5px;
-    padding: 10px;
+    padding: 10px 15px;
     color: #008080;
   }
   .my-contact-list-item-enter {
@@ -34,7 +34,7 @@ const Wrapper = styled.div`
     transition: all 250ms;
   }
   .contact-list__item-ifo {
-    width: 300px;
+    width: 320px;
   }
   .contact-list__item-name {
     margin-right: 15px;
