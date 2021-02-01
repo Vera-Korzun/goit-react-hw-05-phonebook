@@ -18,11 +18,11 @@ const Wrapper = styled.div`
   .my-contact-list-item-enter {
     opacity: 0;
     transform: translateX(-100%);
+    transition: all 250ms;
   }
   .my-contact-list-item-enter-active {
     opacity: 1;
     transform: translateX(0);
-    transition: all 250ms;
   }
   .my-contact-list-item-exit {
     opacity: 1;
